@@ -2,7 +2,7 @@
 # 포트폴리오
 
 - 이름 : 김영남
-- 교육 : 디지털컨버전스 기반 웹 개발자 양성과정 6개월
+- 교육 : 디지털컨버전스 기반 웹 개발자 양성과정 6
 - 주언어 및 보조 언어 :
     - Java, JavaScript, jsp, html, css, Spring, xml
     - Database : Oracle
