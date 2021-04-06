@@ -1,8 +1,7 @@
-![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseeyoufriyay%2Fportfolio&count_bg=%2360CBD5E7&title_bg=%23767070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseeyoufriyay%2Fportfolio&count_bg=%2360CBD5E7&title_bg=%23767070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 # 포트폴리오
 
-- 이름 : 이지은
+- 이름 : 김영남
 - 교육 : 디지털컨버전스 기반 웹 개발자 양성과정 6개월
 - 주언어 및 보조 언어 :
     - Java, JavaScript, jsp, html, css, Spring, xml
