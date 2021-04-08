@@ -1,14 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungnamK%2Fportfolio&count_bg=%23253A86&title_bg=%234D401C&icon=&icon_color=%23E7E7E7&title=hello&edge_flat=false)](https://hits.seeyoufarm.com)
-# 포트폴리오
+## 포트폴리오
 
 - 이름 : 김영남
 - 교육 : 디지털컨버전스 기반 웹 개발자 양성과정
-- 주언어 및 보조 언어 :
-    - Java, JavaScript, jsp, html, css, Spring, xml
-    - Database : Oracle
-- 주 에디터
-    - Spring Tool Suite4, Eclipse, Oracle sql developer
+- 기술스택 :
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/YoungnamK"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/YoungnamK"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&link=https://github.com/YoungnamK"> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white&link=https://github.com/YoungnamK"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&link=https://github.com/YoungnamK"> <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=Oracle&logoColor=white&link=https://github.com/YoungnamK"> <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=jQuery&logoColor=white&link=https://github.com/YoungnamK"> 
+    
 - 프로젝트 경력 :
+    
     - 스터디카페 예약 사이트 **"그...스터디카페"**
 
         ![https://user-images.githubusercontent.com/74857433/113292264-3b25a180-932f-11eb-8373-f7a47ef5d5dc.gif](https://user-images.githubusercontent.com/74857433/113292264-3b25a180-932f-11eb-8373-f7a47ef5d5dc.gif)
