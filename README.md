@@ -19,6 +19,6 @@
 
 ![https://user-images.githubusercontent.com/74857433/113293274-868c7f80-9330-11eb-85aa-491acf902986.gif](https://user-images.githubusercontent.com/74857433/113293274-868c7f80-9330-11eb-85aa-491acf902986.gif)
 
-#### 원두해요 포트폴리오 : [https://github.com/seeyoufriyay/portfolio/tree/main/final_project_wondoo](https://github.com/seeyoufriyay/portfolio/tree/main/final_project_wondoo)
+#### 원두해요 포트폴리오 : [https://github.com/seeyoufriyay/cafe](https://github.com/seeyoufriyay/cafe)
 - 커피와 관련된 원두, 용품, 수업 등의 상품을 판매 중개 및 예약 관리 사이트입니다.
 - 소비자 취향에 맞는 커피 혹은 브랜드를 비교하여 구매할 수 있는 시스템을 구축하여 선택의 다양성과 편리함을 증진 시키고, 사업자의 경우 원데이클래스 개설을 통해 부가적인 수입 창출을 가능하게 합니다. 최종 프로젝트를 통해 전체적인 데이터 전달 흐름과 xml 설정을 익히며, CRUD 코딩을 통해 Spring에 대해 이해하려 노력했습니다.
